@@ -28,14 +28,3 @@ Dieses Repo wächst rückwirkend – Übungen werden nach und nach ergänzt.
 
 Python 3
 
----
-
-## 📚 Kontext
-
-Teil der **Weiterbildung zur Web Designerin & IT-Projektleiterin** bei GFN, 2025–2026.
-````
-````
-
-Repo-Name: `py_experiments` – passt ins Schema. Und in deine Haupt-README kommt dann ein neuer Abschnitt 🐍 Python. Commit message wenn du das Repo anlegst:
-````
-
